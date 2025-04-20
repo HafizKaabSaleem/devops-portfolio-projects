@@ -1,0 +1,1 @@
+Script to automate user creation with password policies, assign sudo privileges, and configure SSH keys. Also enables firewalld, enforces SELinux, and applies basic hardening to secure Linux servers.

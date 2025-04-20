@@ -1,0 +1,8 @@
+stages:
+  - test
+
+test_job:
+  stage: test
+  script:
+    - echo "Running tests..."
+    - python3 app/sample_code.py
